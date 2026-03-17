@@ -1,0 +1,10 @@
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\bin\Release\netstandard2.1\SheetForge.Runtime.deps.json
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\bin\Release\netstandard2.1\SheetForge.Runtime.dll
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\bin\Release\netstandard2.1\SheetForge.Runtime.pdb
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.csproj.AssemblyReference.cache
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.AssemblyInfoInputs.cache
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.AssemblyInfo.cs
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.csproj.CoreCompileInputs.cache
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.dll
+E:\Projects\SheetForge\runtimes\csharp\SheetForge.Runtime\obj\Release\netstandard2.1\SheetForge.Runtime.pdb
