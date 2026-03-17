@@ -1,0 +1,5 @@
+﻿##var	id:int	long_value:long	precise:double	enabled:bool	text:string	longs:long[]	doubles:double[]	flags:bool[]	names:string[]	long_grid:long[][]	double_grid:double[][]	labels_grid:string[][]	long_ids:set<long>	aliases:set<string>	num_map:int->int	text_num:string->int	num_text:int->string	text_text:string->string	client_only:int	server_only:int	note:string
+##desc	ID	64位整数	双精度	布尔值	文本	长整型数组	双精度数组	布尔数组	字符串数组	长整型二维数组	双精度二维数组	字符串二维数组	长整型集合	字符串集合	整数映射	字符串整数映射	整数字符串映射	字符串字符串映射	仅客户端	仅服务端	忽略列
+##tag	all	all	all	all	all	all	all	all	all	all	all	all	all	all	all	all	all	all	client	server	
+3001	9999999999L	3.14159265	true	alpha	1L,2L,3L	1.25,2.5,3.75	true,false,yes	red,green,blue	1L,2L;3L,4L	1.1,2.2;3.3,4.4	a,b;c,d	11L,11L,22L	foo,bar,foo	1:10,2:20	gold:100,gem:5	1:one,2:two	x:hello,y:world	7	8	comment
+3002	8888888888L	2.71828182	false	beta	4L,5L	9.5,10.5	false,0,no	cyan,magenta	5L,6L;7L,8L	5.5,6.6;7.7,8.8	e,f;g,h	33L,44L	baz,qux	3:30,4:40	coin:7,star:9	3:three,4:four	left:right,up:down	70	80	comment2

@@ -1,0 +1,2 @@
+class SheetForgeError(Exception):
+    pass

@@ -1,0 +1,5 @@
+﻿##var	id:int	tags	terrain	weights	item_ids:set<int>	attrs:string->int	drops
+##desc	ID	标签列表(推断)	地形矩阵(推断)	权重数组(推断)	物品ID集合	属性映射	掉落映射(推断)
+##tag	all	all	all	all	all	all	all
+2001	fire,magic	1,2;3,4	1.0,2.5,3.75	10,20,20,30	gold:100,gem:5	1001:2,1002:3
+2002	ice,control	5,6;7,8	0.5,1.5	40,40,50	coin:7,star:9	1003:1,1004:4

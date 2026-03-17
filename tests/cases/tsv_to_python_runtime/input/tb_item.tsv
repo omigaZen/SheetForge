@@ -1,0 +1,6 @@
+##var	id:int	name:string	hp:int	atk:int
+##desc	ID	名称	生命值	攻击力
+##tag	all	all	all	all
+1001	warrior	100	20
+1002	mage	80	35
+1003	archer	90	25
