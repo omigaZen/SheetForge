@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.datable.cn)",
+      "WebSearch",
+      "Bash(gh auth:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
